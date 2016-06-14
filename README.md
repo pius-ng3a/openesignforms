@@ -1,3 +1,5 @@
+#Copy for CEF502 to work on as course project.
+
 # _Open eSignForms™_ by Yozons
 [Open eSignForms™](https://open.esignforms.com) is the **_first free and open source_**, web contracting software application (on-premise) and SaaS (hosted). Yozons was the first to create an entirely web-based e-signature platform (no need for digital certificates, plugins, etc.) with its _Signed & Secured™_ service released in June 2001, with GE Capital as its first major customer just a few months later.
 
